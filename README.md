@@ -62,5 +62,5 @@ A programming guide in Portuguese for beginners learning C.
 </p>
 
 <p align="center">
-  <img src="./killua.g" width="150" alt="Killua de Hunter x Hunter" />
+  <img src="./killua.gif" width="150" alt="Killua de Hunter x Hunter" />
 </p>
