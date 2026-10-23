@@ -41,7 +41,7 @@ A programming guide in Portuguese for beginners learning C.
 ### Experience & activities
 
 - **Hackathon Brasília Virtual** — 4th place.
-- **Elomed** — squad member; presented the project proposal at Banco do Brasil.
+- **Elomed** — a member of a project team focused on organizing medical records from the moment a patient is admitted, storing hospital test results, and facilitating medical follow-up; I presented the proposal to Banco do Brasil.
 - **Computer classes for seniors** — taught basic computer skills in a UCB social project.
 
 ### Languages
