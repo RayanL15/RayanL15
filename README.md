@@ -52,8 +52,7 @@ The project was developed by a team of five, and we placed **4th**. A company al
 ### Experience & activities
 
 - **Hackathon Alimenta (Sebrae-DF)** — 4th place with No Ponto.
-- **Brasília Virtual Hackathon** — 4th place with Elomed.
-- **Elomed** — part of a project team focused on organizing medical records, storing hospital test results and facilitating medical follow-up. Presented the proposal to Banco do Brasil.
+- **Brasília Virtual Hackathon · Elomed** — 4th place. Part of a team that developed a project for organizing medical records, storing hospital test results and facilitating medical follow-up. Presented the proposal to Banco do Brasil.
 - **Computer classes for seniors** — taught basic computer skills in a UCB social project.
 
 ### Languages
