@@ -38,8 +38,8 @@ I like to understand how things work under the hood before taking shortcuts. Cur
 
 A programming guide in Portuguese for beginners learning C.
 
-### Hackathons projects 
-### No Ponto - Alimenta (Sebrae-DF)
+### Hackathon projects 
+### No Ponto · Hackathon Alimenta (Sebrae-DF)
 
 Alimenta is a Sebrae-DF event focused on innovation and entrepreneurship in the food industry. Its hackathon challenges teams to develop solutions for real businesses.
 
@@ -47,12 +47,12 @@ The challenge was to help Bar Marambaia preserve the identity and consistency of
 
 The project was developed by a team of five, and we placed **4th**. A company also showed interest in our solution and invited the team for an interview.
 
-[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**no ponto site ↗**](https://al1licia.github.io/Marambaia/)
+[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**Live Demo↗**](https://al1licia.github.io/Marambaia/)
 
 ### Experience & activities
 
-- **Hackathon Alimenta (Sebrae-DF)** — 4th place with No Ponto, developed as part of a five-person team.
-- **Brasília Virtual Hackathon** — 4th place.
+- **Hackathon Alimenta (Sebrae-DF)** — 4th place with No Ponto.
+- **Brasília Virtual Hackathon** — 4th place with Elomed.
 - **Elomed** — part of a project team focused on organizing medical records, storing hospital test results and facilitating medical follow-up. Presented the proposal to Banco do Brasil.
 - **Computer classes for seniors** — taught basic computer skills in a UCB social project.
 
