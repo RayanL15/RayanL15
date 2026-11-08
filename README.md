@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050507,100:371B24&amp;height=85&amp;section=header" width="100%" alt="Black and dark burgundy wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050507,100:371B24&height=85&section=header" width="100%" alt="Black and dark burgundy wave" />
 </p>
 
 <h1 align="center">Rayan ☾</h1>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:rayan.m.andrade@gmail.com">
-    <img src="https://img.shields.io/badge/rayan.m.andrade%40gmail.com-0B0B0D?style=flat-square&amp;logo=gmail&amp;logoColor=B48A96" alt="rayan.m.andrade@gmail.com" />
+    <img src="https://img.shields.io/badge/rayan.m.andrade%40gmail.com-0B0B0D?style=flat-square&logo=gmail&logoColor=B48A96" alt="rayan.m.andrade@gmail.com" />
   </a>
 </p>
 
@@ -32,16 +32,28 @@ I like to understand how things work under the hood before taking shortcuts. Cur
 ![Git](https://img.shields.io/badge/Git-0B0B0D?style=flat-square&logo=git&logoColor=B9B9C0)
 ![GitHub](https://img.shields.io/badge/GitHub-0B0B0D?style=flat-square&logo=github&logoColor=B9B9C0)
 
-### Featured project
+### Solo projects
 
 [**guia-programacao-c ↗**](https://github.com/RayanL15/guia-programacao-c)
 
 A programming guide in Portuguese for beginners learning C.
 
+### Hackathons projects 
+### No Ponto - Alimenta (Sebrae-DF)
+
+Alimenta is a Sebrae-DF event focused on innovation and entrepreneurship in the food industry. Its hackathon challenges teams to develop solutions for real businesses.
+
+The challenge was to help Bar Marambaia preserve the identity and consistency of its dishes, regardless of who prepares them. Our solution was **No Ponto**, a prototype that documents cooking processes through videos, instructions and practical evaluations, helping teams maintain consistent standards.
+
+The project was developed by a team of five, and we placed **4th**. A company also showed interest in our solution and invited the team for an interview.
+
+[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**Live Demo ↗**](https://al1licia.github.io/Marambaia/)
+
 ### Experience & activities
 
-- **Hackathon Brasília Virtual** — 4th place.
-- **Elomed** — a member of a project team focused on organizing medical records from the moment a patient is admitted, storing hospital test results, and facilitating medical follow-up; I presented the proposal to Banco do Brasil.
+- **Hackathon Alimenta (Sebrae-DF)** — 4th place with No Ponto, developed as part of a five-person team.
+- **Brasília Virtual Hackathon** — 4th place.
+- **Elomed** — part of a project team focused on organizing medical records, storing hospital test results and facilitating medical follow-up. Presented the proposal to Banco do Brasil.
 - **Computer classes for seniors** — taught basic computer skills in a UCB social project.
 
 ### Languages
@@ -52,7 +64,7 @@ A programming guide in Portuguese for beginners learning C.
 <details>
   <summary>Repository languages</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanL15&amp;layout=compact&amp;bg_color=0B0B0D&amp;title_color=B48A96&amp;text_color=D4D4D8&amp;hide_border=true" width="340" alt="Languages used in my public repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanL15&layout=compact&bg_color=0B0B0D&title_color=B48A96&text_color=D4D4D8&hide_border=true" width="340" alt="Languages used in my public repositories" />
 </details>
 
 ---
