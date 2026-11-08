@@ -34,11 +34,11 @@ I like to understand how things work under the hood before taking shortcuts. Cur
 
 ### Solo projects
 
-[**guia-programacao-c ↗**](https://github.com/RayanL15/guia-programacao-c)
+[**Guia Básico de Programação em C ↗**](https://github.com/RayanL15/guia-programacao-c)
 
-A programming guide in Portuguese for beginners learning C.
+An introductory guide in Portuguese for beginners learning C, covering program structure, variables, input/output, conditional statements and loops. It includes examples and practical exercises that I used during my own learning process.
 
-### Hackathon projects 
+### Hackathon projects
 ### No Ponto · Hackathon Alimenta (Sebrae-DF)
 
 Alimenta is a Sebrae-DF event focused on innovation and entrepreneurship in the food industry. Its hackathon challenges teams to develop solutions for real businesses.
