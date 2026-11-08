@@ -47,7 +47,7 @@ The challenge was to help Bar Marambaia preserve the identity and consistency of
 
 The project was developed by a team of five, and we placed **4th**. A company also showed interest in our solution and invited the team for an interview.
 
-[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**Live Demo ↗**](https://al1licia.github.io/Marambaia/)
+[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**no ponto site ↗**](https://al1licia.github.io/Marambaia/)
 
 ### Experience & activities
 
