@@ -34,7 +34,7 @@ I like to understand how things work under the hood before taking shortcuts. Cur
 
 ### Solo projects
 
-[**Guia Básico de Programação em C ↗**](https://github.com/RayanL15/guia-programacao-c)
+[**Guia Básico de Programação em C**](https://github.com/RayanL15/guia-programacao-c)
 
 An introductory guide in Portuguese for beginners learning C, covering program structure, variables, input/output, conditional statements and loops. It includes examples and practical exercises that I used during my own learning process.
 
@@ -47,7 +47,7 @@ The challenge was to help Bar Marambaia preserve the identity and consistency of
 
 The project was developed by a team of five, and we placed **4th**. A company also showed interest in our solution and invited the team for an interview.
 
-[**No Ponto ↗**](https://github.com/Al1licia/Marambaia) · [**Live Demo↗**](https://al1licia.github.io/Marambaia/)
+[**No Ponto**](https://github.com/Al1licia/Marambaia) · [**Live Demo**](https://al1licia.github.io/Marambaia/)
 
 ### Experience & activities
 
